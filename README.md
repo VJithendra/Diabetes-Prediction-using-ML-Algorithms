@@ -2,8 +2,8 @@
 Diabetes Prediction Using Different algorithms
 
 # Algorithms
-**1.Linear Regression
-**2.Logistic Regression
+* 1.Linear Regression
+* 2.Logistic Regression
 **3.KNN
 **4.SVM
 **5.Random Forest
