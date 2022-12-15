@@ -16,10 +16,10 @@ Now a days due to hectic schedules, Sedentary lifestyle people do not follow the
 
 # Libraries used are:
 
-**1.numpy - for mathematical calculations
+* numpy - for mathematical calculations
 
-**2.matplotlib - for visualisation
+* matplotlib - for visualisation
 
-**3.pandas - for reading csv files
+* pandas - for reading csv files
 
-**4.tkinter - for creating a user interface
+* tkinter - for creating a user interface
